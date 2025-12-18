@@ -2,6 +2,8 @@
 basic bot that bridges discord to minecraft 
 this uses discord.js@v13 and mineflayer
 ### you need a bot with message.content enabled in discord application settings.
+https://github.com/xdarked/discord-chatbridge/blob/main/message%20content%20intent.png
+
 
 # how to run
 1. open the file and change the bot username, token, channel id, discord webhook url, ect
