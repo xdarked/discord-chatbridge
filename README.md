@@ -13,3 +13,7 @@ npm i discord.js@v13
 npm i mineflayer
 ```
 3. run the bot and sign in with microsoft when promted
+4. idk should be done now
+
+
+# any questions contact xdarked on discord (me) and they will try their best to help or sum 
