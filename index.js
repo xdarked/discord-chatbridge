@@ -3,8 +3,8 @@ const { Client, Intents, WebhookClient } = require('discord.js')
 
 const options = {
   host: '0b0t.org', //server ip
-  port: 25565, //only change if needed.
-  version: '1.20', //version, seems most stable on 1.20
+  port: 25565, //port
+  version: '1.20', //chat seems to be different on higher version 
   auth: 'microsoft',
   username: 'BOTUSERNAME' //bot username
 }
