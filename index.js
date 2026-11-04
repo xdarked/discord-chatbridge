@@ -59,7 +59,7 @@ client.once('ready', () => {
     if (match) {
       let username = match[1]
       let content = match[2]
-        .replace(/@everyone/g, '@ everyone')
+        .replace(/@everyone/g, '@ everyone') //these are probobly retarded but who gaf it works
         .replace(/@here/g, '@ here')
         .replace(/<@/g, '<@ ')
 
@@ -73,7 +73,7 @@ client.once('ready', () => {
       WEBHOOK.send({
         content: text,
         username: 'server',
-        avatarURL: `https://0b0t.org/img/logo.png`,
+        avatarURL: `https://0b0t.org/img/logo.png`, //change this for server messages if you want ig
         flags: 4096
       })
     }
