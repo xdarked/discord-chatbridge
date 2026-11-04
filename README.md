@@ -16,4 +16,4 @@ npm i mineflayer
 4. idk should be done now
 
 
-# any questions contact xdarked on discord (me) and they will try their best to help or sum 
+# any questions contact xdarked on discord (me) and she will try their best to help or sum 
